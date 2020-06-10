@@ -1,17 +1,21 @@
 # Top_Down_Shooter
-Top down shooter project containing several mechanics I added, used for experimentaion
+
+Top down shooter project containing several mechanics I added, used for experimentaion 
+
+# Dynamic Camera Menu
+
+![](images/Menu.gif)
+
+# Level Entry Cutscenes Using cinemachine
+
+![](images/Cutscene.gif)
+
+# Weapon wheel with slow down time
+
+![](images/WeaponWheel.gif)
+
+# Enemy AI and combat
+
+![](images/Combat.png)
 
 
-FEATURES 
-
-Version 1
-    Character movement,
-    Controller intergration,
-    Basic shooing,
-    Bullet Shells,
-    Haptic Feedback,
-    Character animation,
-    Basic weapon switching,
-    Weapon damage,
-    Basic level up system,
-    Ammo system
