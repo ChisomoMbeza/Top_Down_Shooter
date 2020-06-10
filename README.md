@@ -1,6 +1,6 @@
 ## Synopsis
 
-Isometric top down shooter unit project I use as experimentatrion for new mechanics I want to try out and learn.
+Isometric top down shooter Unity Engine project I use as experimentatrion for new mechanics I want to try out or learn how to code.
 
 # Top_Down_Shooter
 
