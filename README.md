@@ -1,3 +1,7 @@
+## Synopsis
+
+Isometric top down shooter unit project I use as experimentatrion for new mechanics I want to try out and learn.
+
 # Top_Down_Shooter
 
 Top down shooter project containing several mechanics I added, used for experimentaion 
@@ -17,5 +21,16 @@ Top down shooter project containing several mechanics I added, used for experime
 # Enemy AI and combat
 
 ![](images/Combat.gif)
+
+
+## Motivation
+
+I'm always looking to grow as a game developer and this is a good way to build up on my skills.
+
+## Installation
+
+Repository is public , clone to device and open in Unity.
+
+
 
 
