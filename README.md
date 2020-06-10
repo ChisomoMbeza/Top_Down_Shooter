@@ -16,6 +16,6 @@ Top down shooter project containing several mechanics I added, used for experime
 
 # Enemy AI and combat
 
-![](images/Combat.png)
+![](images/Combat.gif)
 
 
